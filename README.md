@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am Ethan a passionate designer!
+I am Ethan, a designer, developer, and I'm a member of The Church of Jesus Christ of Latter-day Saints!!!
+
+Wanna take a look at a few of my projects? Check out https://seemslegit.email and https://conceptualize.app 
 
 <!--
 **Ekmand/ekmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
