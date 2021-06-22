@@ -4,6 +4,8 @@ I am Ethan, a designer, developer, and I'm a member of The Church of Jesus Chris
 
 Wanna take a look at a few of my projects? Check out https://seemslegit.email and https://conceptualize.app 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekmand)](https://github.com/ekmand)
+
 <!--
 **Ekmand/ekmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
