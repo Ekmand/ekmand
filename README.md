@@ -2,7 +2,10 @@
 
 I am Ethan, a designer, developer, and I'm a member of The Church of Jesus Christ of Latter-day Saints!!!
 
-Wanna take a look at a few of my projects? Check out https://seemslegit.email and https://conceptualize.app 
+Wanna take a look at a few of my projects? Check these out! 
+https://karen.solutions 
+https://seemslegit.email
+https://avdanos.com
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekmand)](https://github.com/ekmand)
 
