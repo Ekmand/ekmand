@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I am Ethan, a designer, developer, and I'm a member of The Church of Jesus Christ of Latter-day Saints!!!
+I'm Ethan, a developer and designed based here in Logan, Utah. 
 
 Wanna take a look at a few of my projects? Check these out! 
-https://karen.solutions 
-https://seemslegit.email
-https://avdanos.com
+https://mailtodm.com
+https://essentialdash.com
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekmand)](https://github.com/ekmand)
 
