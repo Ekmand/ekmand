@@ -4,9 +4,7 @@ I'm Ethan, a developer and designed based here in Logan, Utah.
 
 Wanna take a look at a few of my projects? Check these out! 
 https://mailtodm.com
-https://essentialdash.com
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekmand)](https://github.com/ekmand)
+https://gesturesynth.com
 
 <!--
 **Ekmand/ekmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
